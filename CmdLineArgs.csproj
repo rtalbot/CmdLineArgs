@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFrameworks>netcoreapp2.2;netcoreapp3.0;netstandard2.0;netstandard2.1;net472</TargetFrameworks>
+    <Authors>Richard J Talbot</Authors>
+    <Title>CmdLineArgs</Title>
+    <Version>1.1.0</Version>
+    <Description>A Simple Command Line Argument Parsing Library for Console Applications</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Copyright>Copyright © 2019 Richard J Talbot.</Copyright>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="LICENSE" />
+    <Content Include="nuget.config" />
+  </ItemGroup>
+</Project>
